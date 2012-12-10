@@ -1,0 +1,220 @@
+body
+{
+	margin:0px auto;
+	padding:0px;
+	text-align:center;
+	width:900px;
+	min-width:900px;
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#000;
+	color:#CCC;
+}
+
+#wrapper
+{
+	text-align:center;
+	width:900px;
+	min-width:900px;
+	
+}
+
+.matching_tweets
+{
+	padding:10px 10px 0px 10px;
+	border:#333;
+	background:#0C9;
+	color:#FFF;
+	width:880px;
+	max-height:200px;
+	overflow:auto;
+	text-align:left;	
+}
+
+.close_matching_tweets
+{
+	margin-top:10px;
+	background-color:#FFF;
+	width:50px;
+	height:20px;
+}
+
+
+.jqplot-data-label 
+{
+	color: #FFF;
+	font-size: 15px;
+	font-weight:bold;
+}
+
+.heading1
+{
+	text-align:left;
+	color:#FC3;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.heading2
+{
+	text-align:left;
+	color:#FC3;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.uname_css
+{
+	width:300px;
+	height:50px;
+	font-size:24px;
+	padding-left:10px;
+	border-color:#099;
+	background-color:#CCC;
+	color:#333;
+}
+
+.bt1_css
+{
+	width:200px;
+	height:50px;
+	font-size:22px;
+	font-family:Arial, Helvetica, sans-serif;
+	background-color:#39C;
+	border:#999 outset;
+}
+#header
+{
+	text-align:left;
+	font-size:32px;
+	font-family:Verdana, Geneva, sans-serif;
+	background-color:#666;
+	margin-top:10px;
+}
+
+
+#info
+{
+	margin-left:150px;
+	margin-top:30px;
+	text-align:center;
+	width:600px;
+	height:300px;
+	
+}
+
+#info a
+{
+	color:#39C;
+}
+
+#about_app
+{
+	text-align:left;
+	margin-left:20px;
+	color:#39C;
+	text-decoration:underline;
+}
+
+
+#about_app a
+{
+	color:#39C;
+	text-decoration:underline;
+}
+
+#hide_about_app
+{
+	text-align:left;
+	margin-left:20px;
+	color:#39C;
+	text-decoration:underline;
+}
+
+
+#hide_about_app a
+{
+	color:#39C;
+	text-decoration:underline;
+}
+
+#userInput
+{
+	text-align:center;
+	margin-top:10px;
+}
+
+#testme
+{
+	color:#F66;
+	font-size:20px;
+	margin:10px;
+	
+	
+}
+#visual1
+{
+	text-align:left;
+	margin-top:10px;
+	background-color:#FFF;
+}
+
+
+#visual2
+{
+	text-align:left;
+	margin-top:10px;
+	background-color:#FFF;
+	
+}
+
+#visual3
+{
+	text-align:left;
+	background-color:#FFF;
+	margin-top:10px;
+	
+}
+
+#visual4
+{
+	text-align:left;
+	background-color:#FFF;
+	margin-top:10px;
+	
+}
+
+#hours
+{
+	text-align:left;
+	margin-top:10px;
+}
+
+#visual5
+{
+	background-color:#FFF;
+	float:left;
+	margin-top:10px;
+}
+
+#visual6
+{
+	background-color:#FFF;
+	margin-top:27px;
+	margin-left:460px;
+}
+
+#visual7
+{
+	background-color:#FFF;
+	margin-top:10px;	
+}
+
+#visual8
+{
+	background-color:#FFF;
+	margin-top:10px;	
+	margin-bottom:50px;
+}
+
+
+
